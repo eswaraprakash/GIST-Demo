@@ -8,8 +8,8 @@ export const Forks = (data) => {
     <div className="forksBox">
       <p>Forks:</p>
       {forks && forks.length !== 0 ? forks.map((fork, i) => (
-          <ul>
-          <li key={i}>
+          <ul key={i}>
+          <li>
           <a
             href={`https://gist.github.com/${fork.id}`}
             target="_blank"
