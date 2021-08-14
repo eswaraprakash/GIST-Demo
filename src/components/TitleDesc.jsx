@@ -26,6 +26,7 @@ export const TitleDesc=()=>
           Fork: Username/Avatar of the last 3 users who forked it with avatar
           linking to the fork.
         </li>
+        <li>Some of username to test the functionality are addyosmani, octocat</li>
       </ul>
     </div>
   );
