@@ -1,6 +1,6 @@
   
 Details    
-Use the API provided by GitHub Gist API[Document Link](https://docs.github.com/en/free-pro-team@latest/rest/reference/gists), create a basic     
+Use the API provided by GitHub Gist API [Document Link](https://docs.github.com/en/free-pro-team@latest/rest/reference/gists), create a basic     
 website as a single-page app with React.    
 
 Use Gist API to create a simple single-page application. A user     
