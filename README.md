@@ -1,13 +1,4 @@
-Code Assessment for Front-end Engineer    
-Goal    
-The goal of this technical assessment is to evaluate ability and core competency in     
-areas relevant to the front-end development at EventMobi.    
-These include:    
-• Ability to use JavaScript MVC frameworks to interact with APIs.    
-• Competence with creation and implementation of basic designs.    
-• Aptitude with HTML and CSS to create clean, readable and performant code.    
-Through the completion of this test, you will be able to demonstrate your abilities     
-as a developer.    
+  
 Details    
 Use the API provided by GitHub Gist API (which is documented here), create a basic     
 website as a single-page app with React.    
